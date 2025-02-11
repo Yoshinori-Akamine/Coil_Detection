@@ -1,0 +1,10 @@
+count_run_time 0c019330
+count_trans_time 0c0180c8
+initialize 0c0182d8
+MW_main 0c01844c
+read_envelope 0c0180f8
+soft_start 0c018208
+sync_interrupt 0c01920c
+timer_1_int_function 0c0190e8
+turn_off_inverter 0c018000
+turn_on_inverter 0c018de0

@@ -1,0 +1,10 @@
+[COMPONENT]
+CONF	"Project01.cmd" 	# Create:2024年10月3日 10:22:00
+OBJ	"$(PEOS_PATH)\lib\Main.obj" "$(PEOS_PATH)\lib\mwio4.lib" "$(MATHLIB_PATH)\lib\mathlib.ae66" "$(COMPILER_PATH)/../lib/rts6600_elf.lib" "$(CSL_PATH)/lib/ti.csl.ae66" "$(CSL_PATH)/lib/ti.csl.intc.ae66" 	# Create:2024年10月3日 10:22:00
+HEADER	"$(PROJECT_PATH)" "$(PEOS_PATH)\inc" "$(COMPILER_PATH)\..\include" "$(CSL_PATH)" "$(MATHLIB_PATH)\inc" "$(MATHLIB_PATH)\packages" "$(CSL_PATH)\..\.." 	# Create:2024年10月3日 10:22:00
+SRC	"Project01.c" 	# Create:2024年10月3日 10:22:00
+[CONFIGURE]
+AUTO_MAKE	"YES" 	# Create:2024年10月3日 10:22:00
+STOP_RECONF	"NO" 	# Create:2024年10月3日 10:22:00
+PEOS_VER	"3_11" 	# Create:2024年10月3日 10:22:00
+TARGET_TYPE	"c6657" 	# Create:2024年10月3日 10:22:00
